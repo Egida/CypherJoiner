@@ -12,21 +12,17 @@
 </p> 
 
 ## How to use?
-<b>
  * Select files to bind.
  * Click button and build your own payload
  * Your output payload have a name: Bind.exe
-</b>
 
 
 https://github.com/K3rnel-Dev/CypherJoiner/assets/132711888/1770c9ec-4440-468c-9956-43135c19ca2f
 
 
 ## ⚠️ Disclaimer
-<b>
  * This project for education and purposes only!
  * Do not use for illegal purposes!s
-</b>
 
 ## ✨ End
 <strong>Thanks for watching</strong>
