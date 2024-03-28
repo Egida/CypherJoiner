@@ -8,7 +8,7 @@
 
 ## 💻 Screens
 <p float="left" align="center">
-  <img alt="screen" width="300" src="logo.png">
+  <img alt="screen" width="650" src="logo.png">
 </p> 
 
 ## How to use?
